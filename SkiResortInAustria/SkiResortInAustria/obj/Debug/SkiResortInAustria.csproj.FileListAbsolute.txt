@@ -1,0 +1,4 @@
+E:\new project\new1\my first ui\SkiResortInAustria\SkiResortInAustria\SkiResortInAustria\bin\Debug\SkiResortInAustria.exe
+E:\new project\new1\my first ui\SkiResortInAustria\SkiResortInAustria\SkiResortInAustria\bin\Debug\SkiResortInAustria.pdb
+E:\new project\new1\my first ui\SkiResortInAustria\SkiResortInAustria\SkiResortInAustria\obj\Debug\SkiResortInAustria.exe
+E:\new project\new1\my first ui\SkiResortInAustria\SkiResortInAustria\SkiResortInAustria\obj\Debug\SkiResortInAustria.pdb
